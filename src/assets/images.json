@@ -1,0 +1,30 @@
+{
+  "beachBirdeye": {
+    "thumbnail": "thumbnail_beach_birdeye.jpeg",
+    "original": "beach_birdeye.jpeg"
+  },
+  "beachIphone": {
+    "thumbnail": "thumbnail_beach_iphone.jpeg",
+    "original": "beach_iphone.jpeg"
+  },
+  "beachSunset": {
+    "thumbnail": "thumbnail_beach_sunset.jpeg",
+    "original": "beach_sunset.jpeg"
+  },
+  "breakfastFruits": {
+    "thumbnail": "thumbnail_breakfast_fruits.jpeg",
+    "original": "breakfast_fruits.jpeg"
+  },
+  "waterSplash": {
+    "thumbnail": "thumbnail_water_splash.jpeg",
+    "original": "water_splash.jpeg"
+  },
+  "watermelonHeart": {
+    "thumbnail": "thumbnail_watermelon_heart.jpeg",
+    "original": "watermelon_heart.jpeg"
+  },
+  "workdeskMac": {
+    "thumbnail": "thumbnail_workdesk_mac.jpeg",
+    "original": "workdesk_mac.jpeg"
+  }
+}
